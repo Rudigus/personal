@@ -1,14 +1,16 @@
-*Janeiro*
+# Aniversários
+
+## Janeiro
 - 10 Patrícia
 - 06 Vinicius
 - 25 Leonardo
 
-*Fevereiro*
+## Fevereiro
 - 02 Jhennyfer
 - 18 Samuel
 - 28 Nivardo
 
-*Março*
+## Março
 - 01 Mateus Nobre
 - 11 Anderson 
 - 13 Magno
@@ -17,51 +19,45 @@
 - 27 Paulo Rubem
 - 29 Nathália
 
-*Abril*
+## Abril
 - 04 Elias
 - 10 Jessica 
 - 14 Tales
 - 16 Felipe
 - 18 Kellyane
-- 
 
-*Maio*
+## Maio
 - 26 Lucas Fernandes
 - 29 Cecília
 
-*Junho*
+## Junho
 - 07 Joseph 
 - 19 Beatriz Carlos (Bia)
-- 24 Pedro Henrique 
--
+- 24 Pedro Henrique
 
-*Julho*
+## Julho
 - 01 Ana Karolina 
 - 08 Cristiano Coutinho
 - 21 Vitor Bryan
-- 
 
-*Agosto*
--20 Lidiane 
+## Agosto
+- 20 Lidiane 
 - 27 Pedro
-- 
 
-*Setembro*
+## Setembro
 - 28 Ronaldo
-- 
 
-*Outubro*
+## Outubro
 -  06 Alley
 
-*Novembro*
--14 Rodrigo S ( Rogrido )
+## Novembro
+- 14 Rodrigo S ( Rogrido )
 - 16 Albert
 - 17 Helaine 
 - 18 Brena
 - 24 Gustavo
 - 28 José João
-- 
 
-*Dezembro*
-- ?? Rodrigo Matos (Rudigus)
+## Dezembro
+- 03 Rodrigo Matos (Rudigus)
 - 30 Lucas Alves
