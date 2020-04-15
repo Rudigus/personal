@@ -1,5 +1,9 @@
 # Aniversários
 
+## Disclaimer
+
+Essas datas de aniversário são puramente informativas. Caso você não queira sua data de aniversário exposta nesse repositório, basta mandar uma mensagem pro owner pedindo a sua remoção. Ela será removida o mais rápido possível.
+
 ## Janeiro
 - 10 Patrícia
 - 06 Vinicius
@@ -20,6 +24,7 @@
 - 29 Nathália
 
 ## Abril
+- 01 Amanda
 - 04 Elias
 - 10 Jessica 
 - 14 Tales
@@ -48,7 +53,8 @@
 - 28 Ronaldo
 
 ## Outubro
--  06 Alley
+- 06 Alley
+- 12 David
 
 ## Novembro
 - 14 Rodrigo S ( Rogrido )
