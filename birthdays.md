@@ -32,12 +32,13 @@ Essas datas de aniversário são puramente informativas. Caso você não queira 
 ## Abril
 | Dia | Nome |
 |---|---|
-| 1 | Amanda |
+| 1 | Amanda Tavares |
 | 4 | Elias |
 | 10 | Jessica |
 | 14 | Tales |
 | 16 | Felipe |
 | 18 | Kellyane |
+| 26 | Mateus Rodrigues |
 
 ## Maio
 | Dia | Nome |
